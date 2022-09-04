@@ -1,0 +1,8 @@
+version='0.0.0'
+
+[markata]
+glob_patterns = "gh_projects/**/*.md"
+hooks = [
+   "markata.plugins.publish_source",
+   "default",
+   ]

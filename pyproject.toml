@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gh-projects"
+description = 'A Personal homepage for your github projects'
+readme = "README.md"
+requires-python = ">=3.7"
+license = "MIT"
+keywords = []
+authors = [
+  { name = "Waylon S. Walker", email = "waylon@waylonwalker.com" },
+]
+dependencies = ['markata>=0.5.0.dev2', 'markata-gh']
+dynamic = ["version"]
+
+[project.urls]
+Documentation = "https://github.com/waylonwalker/gh-projects#readme"
+Issues = "https://github.com/waylonwalker/gh-projects/issues"
+Source = "https://github.com/waylonwalker/gh-projects"
+
+[tool.hatch.version]
+path = "markata.toml"
+
+[tool.hatch.envs.default]
+dependencies = []
+
+[tool.hatch.envs.default.scripts]
+build='markata build'
+tui='markata tui'
+clean='markata clean'
+clean-build=['clean', 'build']
+clean-tui=['clean', 'tui']

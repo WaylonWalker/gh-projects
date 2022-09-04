@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - '*'
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh repo list --topic markata
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4.1.0
+        with:
+          python-version: '3.10'
+      - run: pip install hatch
+      - run: hatch run build
+      - run: ls markout
+      - run: cat markout/index.md
+      - run: sed '1 { /^---/ { :a N; /\n---/! ba; d} }' markout/index.md > README.md
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: update README
+          file_pattern: README.md
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gh-pages
+          build_dir: markout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
