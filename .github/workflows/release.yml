@@ -22,11 +22,12 @@ jobs:
         uses: actions/setup-python@v4.1.0
         with:
           python-version: '3.10'
-      - run: pip install hatch
-      - run: hatch run build
-      - run: ls markout
-      - run: cat markout/index.md
-      - run: sed '1 { /^---/ { :a N; /\n---/! ba; d} }' markout/index.md > README.md
+      - name: Install the build system (hatch 🥚)
+        run: pip install hatch
+      - name: run the build
+        run: hatch run build
+      - name: Remove Frontmatter and copy to root
+        run: sed '1 { /^---/ { :a N; /\n---/! ba; d} }' markout/index.md > README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: update README
