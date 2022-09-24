@@ -3,8 +3,8 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
-## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐19
-_Last Updated: 2022-09-19T19:34:42Z_
+## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐18
+_Last Updated: 2022-09-23T10:37:45Z_
 
 a todo plugin for markata
 
