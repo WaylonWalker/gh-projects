@@ -3,6 +3,11 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
+## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐0
+_Last Updated: 2022-09-29T21:32:45Z_
+
+Markata Blog Starter
+
 ## [markata-action](https://github.com/WaylonWalker/markata-action) ⭐0
 _Last Updated: 2022-09-26T14:45:02Z_
 
@@ -27,11 +32,6 @@ A plugins all the way down static site generator written in python.  Plugins all
 _Last Updated: 2022-09-26T14:31:40Z_
 
 A todo plugin for markata.  It is a tui (text user interface) that runs in the terminal using textual.  It gives me a trello-board feel from the terminal.  I can create, update, delete, move, and fully manage my todo items from the terminal with it.
-
-## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐0
-_Last Updated: 2022-08-31T01:18:42Z_
-
-Markata Blog Starter
 
 ## [markata-docker](https://github.com/WaylonWalker/markata-docker) ⭐0
 _Last Updated: 2022-06-22T14:52:47Z_
