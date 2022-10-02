@@ -3,8 +3,13 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
+## [markata](https://github.com/WaylonWalker/markata) ⭐41
+_Last Updated: 2022-10-02T00:40:15Z_
+
+A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
+
 ## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐0
-_Last Updated: 2022-09-29T21:32:45Z_
+_Last Updated: 2022-10-01T19:35:51Z_
 
 Markata Blog Starter
 
@@ -22,11 +27,6 @@ A markata plugin to pull your github repos into your site by topic.  This is a j
 _Last Updated: 2022-09-26T14:40:28Z_
 
 A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
-
-## [markata](https://github.com/WaylonWalker/markata) ⭐41
-_Last Updated: 2022-09-26T14:34:59Z_
-
-A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
 
 ## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐18
 _Last Updated: 2022-09-26T14:31:40Z_
