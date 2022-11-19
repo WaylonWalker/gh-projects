@@ -3,6 +3,11 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
+## [markata-slides](https://github.com/WaylonWalker/markata-slides) ⭐3
+_Last Updated: 2022-11-18T14:28:24Z_
+
+A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
+
 ## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐20
 _Last Updated: 2022-11-16T15:22:12Z_
 
@@ -27,11 +32,6 @@ An GitHub Action to build markata sites in ci/cd.
 _Last Updated: 2022-09-26T14:41:59Z_
 
 A markata plugin to pull your github repos into your site by topic.  This is a jinja plugin that only needs to be pip installed, then it will automatically be exposed as a jinja tag.
-
-## [markata-slides](https://github.com/WaylonWalker/markata-slides) ⭐2
-_Last Updated: 2022-09-26T14:40:28Z_
-
-A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
 
 ## [markata-docker](https://github.com/WaylonWalker/markata-docker) ⭐0
 _Last Updated: 2022-06-22T14:52:47Z_
