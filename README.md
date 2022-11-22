@@ -3,8 +3,8 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
-## [markata-slides](https://github.com/WaylonWalker/markata-slides) ⭐3
-_Last Updated: 2022-11-18T14:28:24Z_
+## [markata-slides](https://github.com/WaylonWalker/markata-slides) ⭐4
+_Last Updated: 2022-11-21T15:10:32Z_
 
 A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
 
