@@ -3,8 +3,13 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
-## [markata](https://github.com/WaylonWalker/markata) ⭐61
-_Last Updated: 2022-12-12T15:05:56Z_
+## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐23
+_Last Updated: 2022-12-15T15:25:10Z_
+
+A todo plugin for markata.  It is a tui (text user interface) that runs in the terminal using textual.  It gives me a trello-board feel from the terminal.  I can create, update, delete, move, and fully manage my todo items from the terminal with it.
+
+## [markata](https://github.com/WaylonWalker/markata) ⭐62
+_Last Updated: 2022-12-15T09:48:07Z_
 
 A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
 
@@ -12,11 +17,6 @@ A plugins all the way down static site generator written in python.  Plugins all
 _Last Updated: 2022-12-10T11:52:21Z_
 
 A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
-
-## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐22
-_Last Updated: 2022-12-10T00:43:19Z_
-
-A todo plugin for markata.  It is a tui (text user interface) that runs in the terminal using textual.  It gives me a trello-board feel from the terminal.  I can create, update, delete, move, and fully manage my todo items from the terminal with it.
 
 ## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐2
 _Last Updated: 2022-10-21T21:22:23Z_
