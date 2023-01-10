@@ -1,0 +1,193 @@
+2023-01-10 01:14:56,769 markata      WARNING  
+                        Warning url is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+url = ''
+
+
+
+2023-01-10 01:14:56,792 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  url is missing from markata.toml config, using default value 
+2023-01-10 01:14:56,793 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  site_name is missing from markata.toml config, using default value 
+2023-01-10 01:14:56,795 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  author_name is missing from markata.toml config, using default value 
+2023-01-10 01:14:56,796 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  author_email is missing from markata.toml config, using default value 
+2023-01-10 01:14:56,798 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  twitter_creator is missing from markata.toml config, using default value 
+2023-01-10 01:14:56,799 /home/runner/.local/share/hatch/env/virtual/gh-projects/hPBKXqWb/gh-projects/lib/python3.10/site-packages/markata/plugins/seo.py WARNING  twitter_card is missing from markata.toml config, using default value summary_large_image
+2023-01-10 01:14:56,840 markata      WARNING  
+                        Warning site_name is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+site_name = ''
+
+
+
+2023-01-10 01:14:56,843 markata      WARNING  
+                        Warning short_name is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+short_name = ''
+
+
+
+2023-01-10 01:14:56,845 markata      WARNING  
+                        Warning start_url is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+start_url = ''
+
+
+
+2023-01-10 01:14:56,847 markata      WARNING  
+                        Warning display is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+display = ''
+
+
+
+2023-01-10 01:14:56,849 markata      WARNING  
+                        Warning background_color is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+background_color = ''
+
+
+
+2023-01-10 01:14:56,851 markata      WARNING  
+                        Warning theme_color is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+theme_color = ''
+
+
+
+2023-01-10 01:14:56,854 markata      WARNING  
+                        Warning description is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+description = ''
+
+
+
+2023-01-10 01:14:56,894 markata      WARNING  
+                        Warning url is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+url = ''
+
+
+
+2023-01-10 01:14:56,897 markata      WARNING  
+                        Warning title is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+title = ''
+
+
+
+2023-01-10 01:14:56,899 markata      WARNING  
+                        Warning author_name is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+author_name = ''
+
+
+
+2023-01-10 01:14:56,901 markata      WARNING  
+                        Warning author_email is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+author_email = ''
+
+
+
+2023-01-10 01:14:56,903 markata      WARNING  
+                        Warning icon is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+icon = ''
+
+
+
+2023-01-10 01:14:56,906 markata      WARNING  
+                        Warning lang is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+lang = ''
+
+
+
+2023-01-10 01:14:56,908 markata      WARNING  
+                        Warning rss_description is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+rss_description = ''
+
+
+
+2023-01-10 01:14:56,966 markata      WARNING  
+                        Warning description is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+description = ''
+
+
+
+2023-01-10 01:14:56,969 markata      WARNING  
+                        Warning url is not set in markata config, sitemap will
+                        be missing root site_name
+                        to resolve this open your markata.toml and add
+
+
+[markata]
+url = ''
+
+
+
