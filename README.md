@@ -3,6 +3,11 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
+## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐3
+_Last Updated: 2023-01-20T14:29:19Z_
+
+Markata Blog Starter
+
 ## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐26
 _Last Updated: 2023-01-19T21:06:04Z_
 
@@ -17,11 +22,6 @@ A plugins all the way down static site generator written in python.  Plugins all
 _Last Updated: 2022-12-10T11:52:21Z_
 
 A slides plugin for markata that allows you to create presentations in markdown from the comfort of your favorite editor.  Each new h2 tag (## in markdown) becomes a new slide.  This plugin leverages the built-in feeds plugin for navigation, and adds in some hotkeys (j/k) to go the the previous and next slides.
-
-## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐2
-_Last Updated: 2022-10-21T21:22:23Z_
-
-Markata Blog Starter
 
 ## [markata-action](https://github.com/WaylonWalker/markata-action) ⭐0
 _Last Updated: 2022-09-26T14:45:02Z_
