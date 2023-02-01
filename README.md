@@ -3,8 +3,8 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
-## [markata](https://github.com/WaylonWalker/markata) ⭐71
-_Last Updated: 2023-01-25T00:50:52Z_
+## [markata](https://github.com/WaylonWalker/markata) ⭐72
+_Last Updated: 2023-01-31T09:28:55Z_
 
 A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
 
