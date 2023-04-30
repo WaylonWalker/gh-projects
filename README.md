@@ -3,15 +3,15 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
+## [markata](https://github.com/WaylonWalker/markata) ⭐82
+_Last Updated: 2023-04-29T14:27:40Z_
+
+A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
+
 ## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐29
 _Last Updated: 2023-03-29T01:39:50Z_
 
 A todo plugin for markata.  It is a tui (text user interface) that runs in the terminal using textual.  It gives me a trello-board feel from the terminal.  I can create, update, delete, move, and fully manage my todo items from the terminal with it.
-
-## [markata](https://github.com/WaylonWalker/markata) ⭐81
-_Last Updated: 2023-03-29T01:34:32Z_
-
-A plugins all the way down static site generator written in python.  Plugins all the way down means that you can completely change the behavior of how it works by swapping plugins, installing new ones, or creating your own all in python.
 
 ## [markata-blog-starter](https://github.com/WaylonWalker/markata-blog-starter) ⭐3
 _Last Updated: 2023-01-20T14:29:19Z_
