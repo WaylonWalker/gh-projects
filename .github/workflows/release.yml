@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - '*'
+      - "*"
   schedule:
-    - cron:  '0 0 * * *'
+    - cron: "0 0 * * *"
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: gh repo list --topic markata
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           ref: ${{ github.head_ref }}
       - name: Set up Python 3.10
         uses: actions/setup-python@v4.1.0
         with:
-          python-version: '3.10'
+          python-version: "3.10"
       - name: Install the build system (hatch 🥚)
         run: pip install hatch
       - name: run the build
@@ -40,5 +40,3 @@ jobs:
           build_dir: markout
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
