@@ -3,8 +3,8 @@ Create your own using the
 [gh-project](https://github.com/WaylonWalker/gh-projects/generate) template.
 
 
-## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐29
-_Last Updated: 2023-06-12T17:43:40Z_
+## [markata-todoui](https://github.com/WaylonWalker/markata-todoui) ⭐30
+_Last Updated: 2023-06-16T08:12:00Z_
 
 A todo plugin for markata.  It is a tui (text user interface) that runs in the terminal using textual.  It gives me a trello-board feel from the terminal.  I can create, update, delete, move, and fully manage my todo items from the terminal with it.
 
