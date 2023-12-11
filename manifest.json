@@ -1,0 +1,10 @@
+{
+    "name": null,
+    "short_name": null,
+    "start_url": "/",
+    "display": "minimal-ui",
+    "background_color": "#b73cf6",
+    "theme_color": "#322d39",
+    "description": null,
+    "icons": []
+}
